@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **langchainjahed@gmail.com**
 
-- 📄 Know about my experiences [MHJAHED](https://mhjahedportfolio.netlify.app)
+- 📄 Know about my experiences 
 
 - ⚡ Fun fact **My speculation is to be a pilot.**
 
