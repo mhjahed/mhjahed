@@ -15,21 +15,21 @@
 ---
 
 <!-- About Me Section -->
-<h2 align="center">🧑‍💻 About Me</h2>
+<h2 align="center"> About Me</h2>
 
 <table align="center">
 <tr>
 <td width="50%" valign="top">
 
-### 🎯 Quick Facts
+### Quick Facts
 
--  Currently working on **Student Management App**
--  Learning **C++, React Native, Node JS, Next JS**
+-  I'm currently working on **Student Management App**
+-  I'm learning **C++, React Native, Node JS, Next JS**
 -  Exploring **Cyber Security & Data Analysis**
--  Diving into **Cloud Engineering**
--  Writing about **Cyber Threats & Crime Analysis**
--  Dream: **Becoming an IT ENGINEER**
--  Based in **Bangladesh 🇧🇩**
+-  In future, I'll be diving into **Cloud Engineering**
+-  Currently, writing blog about **Cyber Threats & Crime Analysis**
+-  My dream: **Becoming an IT ENGINEER**
+-  I'm based in **Bangladesh 🇧🇩**
 
 </td>
 <td width="50%" valign="top">
@@ -49,7 +49,7 @@
 ---
 
 <!-- Tech Stack Section -->
-<h2 align="center">🛠️ Tech Stack</h2>
+<h2 align="center"> Tech Stack</h2>
 
 <div align="center">
 
