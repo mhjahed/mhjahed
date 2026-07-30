@@ -23,24 +23,24 @@
 
 ### 🎯 Quick Facts
 
-- 🔭 Currently working on **Student Management App**
-- 🌱 Learning **C++, React Native, Node JS, Next JS**
-- 🔐 Exploring **Cyber Security & Data Analysis**
-- ☁️ Diving into **Cloud Engineering**
-- 📝 Writing about **Cyber Threats & Crime Analysis**
-- ⚡ Dream: **Becoming a Pilot ✈️**
-- 🌍 Based in **Bangladesh 🇧🇩**
+-  Currently working on **Student Management App**
+-  Learning **C++, React Native, Node JS, Next JS**
+-  Exploring **Cyber Security & Data Analysis**
+-  Diving into **Cloud Engineering**
+-  Writing about **Cyber Threats & Crime Analysis**
+-  Dream: **Becoming an IT ENGINEER**
+-  Based in **Bangladesh 🇧🇩**
 
 </td>
 <td width="50%" valign="top">
 
-### 🤝 Collaboration
+###  Collaboration
 
-- 👯 Looking to collaborate on **Interactive Animated Web Apps**
-- 🤝 Need help with **Book Review React App**
-- 💬 Ask me about **React, Vue, Django, Python, JavaScript, TypeScript, C, C#, Swift**
-- 📫 Reach me at **langchainjahed@gmail.com**
-- 👨‍💻 All projects at [github.com/mhjahed](https://github.com/mhjahed)
+-  I'm looking to collaborate on **Interactive Animated Web Apps**
+-  Currently, I need help with **Book Review React App**
+-  You can ask me about **React, Vue, Django, Python, JavaScript, TypeScript, C, C#, Swift**
+-  Email me at **mhjahed@proton.me**
+-  All projects are availble at [github.com/mhjahed](https://github.com/mhjahed)
 
 </td>
 </tr>
@@ -53,25 +53,25 @@
 
 <div align="center">
 
-### 💻 Languages
+###  Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,js,ts,c,cs,swift,kotlin,html,css" alt="Languages" />
 </p>
 
-### 🧰 Frameworks & Libraries
+###  Frameworks & Libraries
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,vue,django,nodejs,bootstrap,tailwind" alt="Frameworks" />
 </p>
 
-### 🗄️ Databases & Cloud
+###  Databases & Cloud
 
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,firebase,aws,docker" alt="Databases & Cloud" />
 </p>
 
-### 🎨 Design & Tools
+###  Design & Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,git,linux,nginx,vscode" alt="Tools" />
@@ -82,7 +82,7 @@
 ---
 
 <!-- GitHub Stats Section -->
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2 align="center"> GitHub Analytics</h2>
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mhjahed&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=f97316&icon_color=f97316&text_color=ffffff&ring_color=1a365d" alt="GitHub Stats" />
@@ -98,7 +98,7 @@
 ---
 
 <!-- Projects Section -->
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="center"> Featured Projects</h2>
 
 <div align="center">
   <a href="https://github.com/mhjahed/personal-blog">
@@ -112,7 +112,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 📚 Personal Blog Platform
+###  Personal Blog Platform
 - **Tech:** React, Bootstrap, Vite
 - **Features:** Search, Admin Panel, Comments
 - **Live:** [View Site](https://personal-blog.jah267478.workers.dev/)
@@ -121,10 +121,10 @@
 </td>
 <td width="50%" valign="top">
 
-### 📋 Student Management App
+###  Student Management App
 - **Tech:** React, Node.js, MongoDB
 - **Features:** CRUD, Authentication
-- **Status:** 🔨 In Development
+- **Status:**  In Development
 - **Repo:** Coming Soon
 
 </td>
@@ -134,7 +134,7 @@
 ---
 
 <!-- Activity Graph -->
-<h2 align="center">📈 Contribution Graph</h2>
+<h2 align="center"> Contribution Graph</h2>
 
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mhjahed&bg_color=0D1117&color=f97316&line=1a365d&point=f97316&area=true&area_color=1a365d&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
@@ -143,7 +143,7 @@
 ---
 
 <!-- Trophy Section -->
-<h2 align="center">🏆 GitHub Trophies</h2>
+<h2 align="center"> GitHub Trophies</h2>
 
 <div align="center">
   <img width="100%" src="https://github-profile-trophy.vercel.app/?username=mhjahed&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />
@@ -152,7 +152,7 @@
 ---
 
 <!-- Skills Progress Section -->
-<h2 align="center">📈 Skills & Expertise</h2>
+<h2 align="center"> Skills & Expertise</h2>
 
 <div align="center">
 
