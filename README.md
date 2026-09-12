@@ -1,169 +1,140 @@
-<div align="center">
-  
-  <!-- Animated Header -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a365d,100:f97316&height=200&section=header&text=MH%20JAHED&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20Cyber%20Security%20Enthusiast&descSize=20&descAlignY=55&descColor=ffffff" />
-
-</div>
-
-<!-- Typing Animation -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=1A365D&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Full+Stack+%26+Backend+Developer+%F0%9F%92%BB;Cyber+Security+Enthusiast+%F0%9F%94%90; alt="Typing SVG" /><br
-  <br></a>
-</p>
-
----
-
-<!-- About Me Section -->
-<h2 align="center"> About Me</h2>
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-### Quick Facts
-
--  I'm currently working on **Student Management App**
--  I'm learning **C++, React Native, Node JS, Next JS**
--  Exploring **Cyber Security & Data Analysis**
--  In future, I'll be diving into **Cloud Engineering**
--  Currently, writing blog about **Cyber Threats & Crime Analysis**
--  My dream: **Becoming an IT ENGINEER**
--  I'm based in **Bangladesh 🇧🇩**
-
-</td>
-<td width="50%" valign="top">
-
-###  Collaboration
-
--  I'm looking to collaborate on **Interactive Animated Web Apps**
--  Currently, I need help with **Book Review React App**
--  You can ask me about **React, Vue, Django, Python, JavaScript, TypeScript, C, C#, Swift**
--  Email me at **mhjahed@proton.me**
--  All projects are availble at [github.com/mhjahed](https://github.com/mhjahed)
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- Tech Stack Section -->
-<h2 align="center"> Tech Stack</h2>
+<!-- ══════════════════════════════════════════════════════════════
+     DESIGN 2 · TERMINAL / SIGNAL
+     Palette: terminal green #39d353 on carbon #0d1117
+     Requires the snake workflow (snake.yml) for the animation in §05
+     Every external widget verified working · 2026-09-12
+     ══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-###  Languages
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&text=MH+JAHED&fontSize=70&color=0:0d1117,100:14532d&stroke=39d353&strokeWidth=1.5&fontColor=39d353&animation=fadeIn" alt="MH JAHED" />
+
+<a href="https://github.com/mhjahed">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=39D353&center=true&vCenter=true&width=800&height=130&repeat=true&lines=$+ssh+guest%40jahed+--no-password-needed;%3E+identity:+MH+JAHED+%E2%80%94+backend+developer;%3E+clearance:+cyber+security+%C2%B7+threat+%26+crime+analysis;%3E+base:+sylhet,+bangladesh+%28utc%2B6%29;%3E+status:+shipping+student-hub+%C2%B7+writing+in+public" alt="terminal intro" />
+</a>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,c,cs,swift,kotlin,html,css" alt="Languages" />
-</p>
-
-###  Frameworks & Libraries
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,django,nodejs,bootstrap,tailwind" alt="Frameworks" />
-</p>
-
-###  Databases & Cloud
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,firebase,aws,docker" alt="Databases & Cloud" />
-</p>
-
-###  Design & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,git,linux,nginx,vscode" alt="Tools" />
+  <img src="https://komarev.com/ghpvc/?username=mhjahed&label=SESSIONS&color=14532d&style=for-the-badge" alt="views" />
+  <a href="mailto:mhjahed@proton.me"><img src="https://img.shields.io/badge/CHANNEL-mhjahed%40proton.me-39d353?style=for-the-badge&logo=proton&logoColor=0d1117" alt="email" /></a>
+  <a href="https://personal-blog.jah267478.workers.dev/"><img src="https://img.shields.io/badge/UPLINK-blog%20live-14532d?style=for-the-badge&logo=cloudflare&logoColor=39d353" alt="blog" /></a>
 </p>
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:39d353,100:0d1117&height=4" alt="" />
 
-<!-- GitHub Stats Section -->
-<h2 align="center"> GitHub Analytics</h2>
+## `$ cat /etc/jahed.conf`
+
+```bash
+mhjahed@sylhet:~$ cat /etc/jahed.conf
+
+[identity]
+name        = MH JAHED
+role        = backend developer, full-stack when the job demands it
+base        = Sylhet, Bangladesh (UTC+6)
+
+[operations]
+shipping    = student-hub          # student management platform
+researching = cyber threats        # crime analysis, written in public
+learning    = c++ · react native · next.js
+queue       = cloud engineering
+
+[contact]
+mail        = mhjahed@proton.me
+blog        = personal-blog.jah267478.workers.dev
+
+[principle]
+# Before developing a technology, assume it's ending.
+```
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:39d353,100:0d1117&height=4" alt="" />
+
+## `$ ls /opt/toolkit/`
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mhjahed&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=f97316&icon_color=f97316&text_color=ffffff&ring_color=1a365d" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=mhjahed&theme=tokyonight&hide_border=true&background=0D1117&ring=f97316&fire=f97316&currStreakLabel=f97316&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=9ca3af" alt="GitHub Streak" />
+
+| DOMAIN | LOADED MODULES |
+|---|---|
+| **languages** | `python` `javascript` `typescript` `c` `c#` `swift` `kotlin` |
+| **web** | `react` `next.js` `vue` `django` `node` `tailwind` `bootstrap` |
+| **data** | `postgresql` `mysql` `mongodb` `sqlite` `firebase` |
+| **infra** | `linux` `nginx` `docker` `aws` `git` |
+| **design** | `figma` `photoshop` `illustrator` |
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,c,cs,swift,kotlin,react,nextjs,vue,django,nodejs&perline=12" alt="stack row 1" />
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,firebase,aws,docker,linux,nginx,git,figma,vscode&perline=12" alt="stack row 2" />
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:39d353,100:0d1117&height=4" alt="" />
+
+## `$ tail -f /var/log/activity.log`
+
+<div align="center">
+  <img height="163" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mhjahed&theme=chartreuse_dark" alt="Stats" />
+  <img height="163" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mhjahed&theme=chartreuse_dark" alt="Languages" />
+  <img height="163" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mhjahed&theme=chartreuse_dark&utcOffset=6" alt="Productive hours" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhjahed&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=f97316&text_color=ffffff" alt="Top Languages" />
-</div>
-
----
-
-<!-- Projects Section -->
-<h2 align="center"> Featured Projects</h2>
-
-<div align="center">
-  <a href="https://github.com/mhjahed/personal-blog">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mhjahed&repo=personal-blog&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=f97316&icon_color=f97316&text_color=ffffff" alt="Personal Blog" />
-  </a>
+  <img width="72%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mhjahed&theme=chartreuse_dark" alt="Profile details" />
 </div>
 
 <br/>
 
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-###  Personal Blog Platform
-- **Tech:** React, Bootstrap, Vite
-- **Features:** Search, Admin Panel, Comments
-- **Live:** [View Site](https://personal-blog.jah267478.workers.dev/)
-- **Repo:** [GitHub](https://github.com/mhjahed/personal-blog)
-
-</td>
-<td width="50%" valign="top">
-
-###  Student Management App
-- **Tech:** React, Node.js, MongoDB
-- **Features:** CRUD, Authentication
-- **Status:**  In Development
-- **Repo:** Coming Soon
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- Activity Graph -->
-<h2 align="center"> Contribution Graph</h2>
-
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mhjahed&bg_color=0D1117&color=f97316&line=1a365d&point=f97316&area=true&area_color=1a365d&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
+  <img width="56%" src="https://streak-stats.demolab.com?user=mhjahed&hide_border=true&background=0d1117&stroke=14532d&ring=39d353&fire=39d353&currStreakLabel=39d353&sideLabels=39d353&currStreakNum=ffffff&sideNums=9fefc0&dates=8b949e" alt="Streak" />
 </div>
 
----
-
-<!-- Trophy Section -->
-<h2 align="center"> GitHub Trophies</h2>
+<br/>
 
 <div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=mhjahed&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />
+  <img width="100%" src="https://ghchart.rshah.org/39d353/mhjahed" alt="One year of commits" />
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:39d353,100:0d1117&height=4" alt="" />
 
-<!-- Skills Progress Section -->
-<h2 align="center"> Skills & Expertise</h2>
+## `$ ./metabolism --render`
+
+<sub>Animated · regenerates every 12 h from your real contribution graph — requires `snake.yml` from this folder (one-time setup, 2 minutes).</sub>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mhjahed/mhjahed/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mhjahed/mhjahed/output/github-snake.svg" />
+    <img width="100%" src="https://raw.githubusercontent.com/mhjahed/mhjahed/output/github-snake-dark.svg" alt="Snake eating my contribution graph" />
+  </picture>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:39d353,100:0d1117&height=4" alt="" />
+
+## `$ ls ~/deployments/`
+
+| MODULE | ROLE | STATE |
+|---|---|---|
+| [`personal-blog`](https://github.com/mhjahed/personal-blog) | Writing on cyber threats & crime analysis — search, admin, comments | ● [LIVE](https://personal-blog.jah267478.workers.dev/) |
+| [`student-hub`](https://github.com/mhjahed/student-hub) | Student management platform — records, auth, CRUD | ◐ in dev |
+| [`inventory-app`](https://github.com/mhjahed/inventory-app) | Products, sales and expenses for small shops | ● shipped |
+| [`bachelors-studyportal-nl`](https://github.com/mhjahed/bachelors-studyportal-nl) | Study portal for bachelor's students, NL | ● shipped |
+
+<br/>
 
 <div align="center">
 
-```text
-React / Next.js    ████████████████████░   90%
-Python / Django    ██████████████████░░░   85%
-JavaScript / TS    ████████████████████░   90%
-Node.js            ███████████████░░░░░░   70%
-Vue.js             ██████████████░░░░░░░   65%
-C / C# / C++       █████████████░░░░░░░░   60%
-Swift / Kotlin     ██████████░░░░░░░░░░░   50%
-Cyber Security     ████████████████░░░░░   75%
-Cloud / AWS        ███████████████░░░░░░   70%
-Docker / DevOps    ██████████████░░░░░░░   65%
+```
+guest@jahed:~$ logout
+
+Connection to mhjahed closed. Session logged.
+Thanks for stopping by — open a channel: mhjahed@proton.me
+```
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:14532d,100:0d1117&height=130&section=footer" alt="" />
