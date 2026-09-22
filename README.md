@@ -103,8 +103,6 @@ blog        = personal-blog.jah267478.workers.dev
 
 ## `$ ./metabolism --render`
 
-<sub>Animated · regenerates every 12 h from your real contribution graph — requires `snake.yml` from this folder (one-time setup, 2 minutes).</sub>
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mhjahed/mhjahed/output/github-snake-dark.svg" />
